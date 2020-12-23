@@ -4,8 +4,8 @@
 - must be clearly defined and factional
 
 ### Joining Propositions together
-- conjunction: T when *P*
-- 
+- Conjunction: $P \land Q$ T = when *P* and *Q* are **true**
+- Disjunction: $P \lor Q$ T = when *P* or *Q* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk3ODUwMzkxLDIwMTkyNTA3NzBdfQ==
+eyJoaXN0b3J5IjpbLTEzNDQ2NDU0NjksMjAxOTI1MDc3MF19
 -->

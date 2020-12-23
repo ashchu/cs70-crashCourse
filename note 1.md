@@ -13,7 +13,9 @@
 **Law of the excluded middle** 
 	For any proposition *P*, P or $\neg$P is true (but not both)
 	- tautology: P $\lor  \neg P$
+	- contradiction: P $\land \neg P$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NTE1MTQyLDIwMTkyNTA3NzBdfQ==
+eyJoaXN0b3J5IjpbMTQ0MjA2NzcyMywxNjU1MTUxNDIsMjAxOT
+I1MDc3MF19
 -->

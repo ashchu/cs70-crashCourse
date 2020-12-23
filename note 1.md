@@ -10,9 +10,10 @@
 - Disjunction: $P \lor Q$ T = when *P* or *Q* is **true**
 - Negation: $\neg P$ T = when *P* is **false**
 
-**law of the excluded middle** 
-	For any proposition *P* 
+**Law of the excluded middle** 
+	For any proposition *P*, P or $\neg$P is true (but not both)
+	- tautology: P $\lor  \neg P$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0ODEzMDE1MSwyMDE5MjUwNzcwXX0=
+eyJoaXN0b3J5IjpbMTY1NTE1MTQyLDIwMTkyNTA3NzBdfQ==
 -->

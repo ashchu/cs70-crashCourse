@@ -12,10 +12,13 @@
 
 **Law of the excluded middle** 
 	For any proposition *P*, P or $\neg$P is true (but not both)
-	- tautology: P $\lor  \neg P$
-	- contradiction: P $\land \neg P$
+	- tautology: P $\lor  \neg P$ **ALWAYS TRUE**
+	- contradiction: P $\land \neg P$ **ALWAYS FALSE**
+
+Useful tool
+- All possible values of propositional form = **truth table**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MjA2NzcyMywxNjU1MTUxNDIsMjAxOT
+eyJoaXN0b3J5IjpbLTI1ODc4MjAxMywxNjU1MTUxNDIsMjAxOT
 I1MDc3MF19
 -->

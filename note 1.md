@@ -4,7 +4,8 @@
 - must be clearly defined and factional
 
 ### Joining Propositions together
+- conjunction: T when *P*
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxOTI1MDc3MF19
+eyJoaXN0b3J5IjpbMjk3ODUwMzkxLDIwMTkyNTA3NzBdfQ==
 -->

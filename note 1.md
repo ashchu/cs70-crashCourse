@@ -13,7 +13,7 @@
 	- False only when P = T and Q = F
 	- Contrapositive: $\neg$Q $\implies \neg$ P
 	- Converse: Q $\implies$ P
-	- Thus: P $\implies$ Q $\equiv$ $
+	- Thus: P $\implies$ Q $\equiv \neg$ Q $\implies \neg$ P
 
 **Law of the excluded middle** 
 	For any proposition *P*, P or $\neg$P is true (but not both)
@@ -24,6 +24,6 @@ Useful tool
 - All possible values of propositional form = **truth table**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Njc5MDcwNTYsLTI1ODc4MjAxMywxNj
-U1MTUxNDIsMjAxOTI1MDc3MF19
+eyJoaXN0b3J5IjpbMTU3NDY1NTA3MCwtMjU4NzgyMDEzLDE2NT
+UxNTE0MiwyMDE5MjUwNzcwXX0=
 -->

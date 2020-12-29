@@ -9,6 +9,7 @@
 - Conjunction: $P \land Q$ T = when *P* and *Q* are **true**
 - Disjunction: $P \lor Q$ T = when *P* or *Q* is **true**
 - Negation: $\neg P$ T = when *P* is **false**
+- Implication: $P \implies Q$
 
 **Law of the excluded middle** 
 	For any proposition *P*, P or $\neg$P is true (but not both)
@@ -19,6 +20,6 @@ Useful tool
 - All possible values of propositional form = **truth table**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1ODc4MjAxMywxNjU1MTUxNDIsMjAxOT
-I1MDc3MF19
+eyJoaXN0b3J5IjpbLTE4Nzg3MTc0NDksLTI1ODc4MjAxMywxNj
+U1MTUxNDIsMjAxOTI1MDc3MF19
 -->

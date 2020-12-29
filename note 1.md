@@ -23,7 +23,10 @@
 Useful tool
 - All possible values of propositional form = **truth table**
 
+### Quantifiers
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NDY1NTA3MCwtMjU4NzgyMDEzLDE2NT
+eyJoaXN0b3J5IjpbMTM4MDk5OTIwNCwtMjU4NzgyMDEzLDE2NT
 UxNTE0MiwyMDE5MjUwNzcwXX0=
 -->

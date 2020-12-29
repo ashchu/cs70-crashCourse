@@ -38,6 +38,7 @@ Useful tool
 
 Concept:
 - Flip as you go
+	- $\neg (\forall x \exists y P(x,y)) \equiv \exists x \neg (\exists y P(x,y)) \equiv \exists x \forall y \neg P(x,y)
 
 *Example*
 - U = {1, 2, 3, 4}
@@ -46,6 +47,6 @@ Concept:
 	- same truth value
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MjI4NzAwNCwtMjU4NzgyMDEzLDE2NT
+eyJoaXN0b3J5IjpbLTYxNDQ3OTE0NiwtMjU4NzgyMDEzLDE2NT
 UxNTE0MiwyMDE5MjUwNzcwXX0=
 -->

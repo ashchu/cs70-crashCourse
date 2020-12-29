@@ -32,11 +32,12 @@ Useful tool
 	- $\lor$ comparisons 
 
 ### Negation 
-	negating conjuctions + disjunctions:
-	- 
-
+***De Morgan's Laws*** (negating conjunctions + disjunctions)
+- $\neg (P \lor Q) \equiv (\neg P \lor \neg Q)$ 
+- 
+	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMjgxODE4NSwtMjU4NzgyMDEzLDE2NT
+eyJoaXN0b3J5IjpbMTc0OTc0NDg4NSwtMjU4NzgyMDEzLDE2NT
 UxNTE0MiwyMDE5MjUwNzcwXX0=
 -->

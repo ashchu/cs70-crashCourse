@@ -36,12 +36,16 @@ Useful tool
 - $\neg (P \land Q) \equiv (\neg P \lor \neg Q)$ 
 - $\neg (P \lor Q) \equiv (\neg P \land \neg Q)$
 
+Concept:
+- Flip as you go
+
 *Example*
 - U = {1, 2, 3, 4}
 - P(x) = "$x^2 > 10$"
-	- $\exists x \neg P(x) \equiv \neg (\forall xP(x)$
+	- $\exists x \neg P(x) \equiv \neg (\forall xP(x))$
+	- same truth value
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzODMwMzc5OSwtMjU4NzgyMDEzLDE2NT
+eyJoaXN0b3J5IjpbMTI4MjI4NzAwNCwtMjU4NzgyMDEzLDE2NT
 UxNTE0MiwyMDE5MjUwNzcwXX0=
 -->

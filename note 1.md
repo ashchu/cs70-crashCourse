@@ -26,12 +26,17 @@ Useful tool
 ### Quantifiers
 - *universal quantifier* = $\forall$
 	- all
+	- $\land$ comparisons
 - *existential quantifier*= $\exists$
 	- at least one
+	- $\lor$ comparisons 
+
+### Negation 
+	negating conjuctions + disjunctions:
 	- 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNDA5OTkwNSwtMjU4NzgyMDEzLDE2NT
+eyJoaXN0b3J5IjpbMTEzMjgxODE4NSwtMjU4NzgyMDEzLDE2NT
 UxNTE0MiwyMDE5MjUwNzcwXX0=
 -->

@@ -24,9 +24,14 @@ Useful tool
 - All possible values of propositional form = **truth table**
 
 ### Quantifiers
+- *universal quantifier* = $\forall$
+	- all
+- *existential quantifier*= $\exists$
+	- at least one
+	- 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MDk5OTIwNCwtMjU4NzgyMDEzLDE2NT
+eyJoaXN0b3J5IjpbLTgyNDA5OTkwNSwtMjU4NzgyMDEzLDE2NT
 UxNTE0MiwyMDE5MjUwNzcwXX0=
 -->

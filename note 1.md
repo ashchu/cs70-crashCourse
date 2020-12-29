@@ -39,9 +39,9 @@ Useful tool
 *Example*
 - U = {1, 2, 3, 4}
 - P(x) = "$x^2 > 10$"
-- 
+	- $\exists x \neg P(x) \equiv \neg (\forall xP(x)$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzMwMjgwNzUsLTI1ODc4MjAxMywxNj
-U1MTUxNDIsMjAxOTI1MDc3MF19
+eyJoaXN0b3J5IjpbMTgzODMwMzc5OSwtMjU4NzgyMDEzLDE2NT
+UxNTE0MiwyMDE5MjUwNzcwXX0=
 -->

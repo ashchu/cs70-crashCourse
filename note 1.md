@@ -33,11 +33,15 @@ Useful tool
 
 ### Negation 
 ***De Morgan's Laws*** (negating conjunctions + disjunctions)
-- $\neg (P \lor Q) \equiv (\neg P \lor \neg Q)$ 
+- $\neg (P \land Q) \equiv (\neg P \lor \neg Q)$ 
+- $\neg (P \lor Q) \equiv (\neg P \land \neg Q)$
+
+*Example*
+- U = {1, 2, 3, 4}
+- P(x) = "$x^2 > 10$"
 - 
-	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0OTc0NDg4NSwtMjU4NzgyMDEzLDE2NT
-UxNTE0MiwyMDE5MjUwNzcwXX0=
+eyJoaXN0b3J5IjpbLTEwMzMwMjgwNzUsLTI1ODc4MjAxMywxNj
+U1MTUxNDIsMjAxOTI1MDc3MF19
 -->

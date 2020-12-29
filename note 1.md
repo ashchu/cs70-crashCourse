@@ -44,7 +44,7 @@ Concept:
 		- use existential quantifiers and limit through implication
 			- "there are at most three distinct integers satisfying P(x)"
 				- $\exists x \exists y \exists z \forall d (P(d) \implies d = x \lor d = y \lor d = z$
-				- OR $\forall x \forall y \forall z \forall v
+				- OR $\forall x \forall y \forall z \forall v(x\neq y \land y \neq v \land v \neq x \land x \neq z \land y \neq z \land v \neq z$
 
 *Example*
 - U = {1, 2, 3, 4}
@@ -53,6 +53,6 @@ Concept:
 	- same truth value
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNDU2MTAzMSwxMTQ3NDQwMjM0LC0yNT
+eyJoaXN0b3J5IjpbMTYwNDk3NDg1NywxMTQ3NDQwMjM0LC0yNT
 g3ODIwMTMsMTY1NTE1MTQyLDIwMTkyNTA3NzBdfQ==
 -->
